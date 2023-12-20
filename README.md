@@ -1,1 +1,1 @@
-While Create the data : use the Postmon --> Body --> raw(Json) | Like this Structure the data will send : ![image](https://github.com/iamtheSk/minidreams_ITask/assets/116950828/1e0f9c75-ed06-41fb-beb2-a09b0d7ecce9)
+While Creating the data : use the Postmon --> Body --> raw(Json) | Like this Structure the data should be post : ![image](https://github.com/iamtheSk/minidreams_ITask/assets/116950828/1e0f9c75-ed06-41fb-beb2-a09b0d7ecce9)
